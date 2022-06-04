@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://junwuhuang.github.io',
-  baseUrl: '/',
+  url: 'https://junwuhuang.github.io/',
+  baseUrl: '/website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -18,7 +18,6 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'JunwuHuang', // Usually your GitHub org/user name.
   projectName: 'website', // Usually your repo name.
-  deploymentBranch: 'main',
   trailingSlash: true,
 
   // Even if you don't use internalization, you can use this field to set useful
