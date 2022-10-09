@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '假鸟乖',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'There is no point in me doing things that I can\'t be myself. --Better Call Saul',
   url: 'https://junwuhuang.github.io/',
   baseUrl: '/website/',
   onBrokenLinks: 'throw',
@@ -68,7 +68,7 @@ const config = {
             type: 'doc',
             docId: 'index',
             position: 'left',
-            label: '算法',
+            label: '每周积累',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -85,7 +85,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: '算法',
+                label: '每周积累',
                 to: '/docs',
               },
             ],
