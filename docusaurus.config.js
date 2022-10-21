@@ -11,7 +11,7 @@ const config = {
     "There is no point in me doing things that I can't be myself. --Better Call Saul",
   url: "https://junwuhuang.github.io/",
   baseUrl: "/website/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
@@ -83,7 +83,7 @@ const config = {
               },
               {
                 label: "算法记录",
-                to: "/leetcode",
+                to: "/leetcode/",
               },
             ],
           },

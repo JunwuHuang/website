@@ -3,7 +3,7 @@ import Layout from "@theme/Layout";
 import { usePluginData } from "@docusaurus/useGlobalData";
 import Link from "@docusaurus/Link";
 
-const Leetcode = () => {
+export default function LeetCode(): JSX.Element {
   const pluginData = usePluginData("generate-tree");
   const files = pluginData["./src/pages/leetcode"];
   return (
@@ -35,5 +35,3 @@ const Leetcode = () => {
     </Layout>
   );
 };
-
-export default Leetcode;
