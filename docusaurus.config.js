@@ -65,7 +65,7 @@ const config = {
           },
           { to: "/leetcode", label: "算法记录", position: "left" },
           {
-            href: "https://github.com/JunwuHuang",
+            href: "https://github.com/JunwuHuang/website",
             label: "GitHub",
             position: "right",
           },
@@ -81,35 +81,31 @@ const config = {
                 label: "每周积累",
                 to: "/docs",
               },
+              {
+                label: "算法记录",
+                to: "/leetcode",
+              },
             ],
           },
           {
-            title: "Community",
+            title: "Contact",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "Github: JunwuHuang",
+                href: "https://github.com/JunwuHuang",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                label: "E-mail: 978162622@qq.com",
+                href: "mailto:978162622@qq.com",
               },
             ],
           },
           {
             title: "More",
             items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/blog',
-              // },
               {
                 label: "GitHub",
-                href: "https://github.com/JunwuHuang",
+                href: "https://github.com/JunwuHuang/website",
               },
             ],
           },
@@ -121,6 +117,14 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  plugins: [
+    [
+      "./plugins/generate-tree",
+      {
+        paths: ["./src/pages/leetcode"],
+      },
+    ],
+  ],
 };
 
 module.exports = config;
