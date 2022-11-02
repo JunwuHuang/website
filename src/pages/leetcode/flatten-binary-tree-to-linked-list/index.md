@@ -20,7 +20,7 @@
 输出：[]
 ```
 
-### 示例三
+### 示例三 s
 
 ```text
 输入：root = [0]
@@ -33,11 +33,11 @@
 
 ```javascript
 var flatten = function (root) {
-  const list = [];
   const stack = [];
+  const list = [];
   let node = root;
-  while (node !== null || stack.length) {
-    while (node !== null) {
+  while (node || stack.length) {
+    while (node) {
       list.push(node);
       stack.push(node);
       node = node.left;
@@ -47,8 +47,8 @@ var flatten = function (root) {
   }
   const size = list.length;
   for (let i = 1; i < size; i++) {
-    const prev = list[i - 1],
-      curr = list[i];
+    const prev = list[i - 1];
+    const curr = list[i];
     prev.left = null;
     prev.right = curr;
   }
