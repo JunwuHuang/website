@@ -63,6 +63,7 @@ const config = {
             position: "left",
             label: "每周积累",
           },
+          { to: "blog", label: "博客", position: "left" },
           { to: "/leetcode", label: "算法记录", position: "left" },
           {
             href: "https://github.com/JunwuHuang/website",
