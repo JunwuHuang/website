@@ -2,7 +2,7 @@
 
 2022/07/03
 
-> <https://leetcode.cn/problems/subsets/>
+> [https://leetcode.cn/problems/subsets/](https://leetcode.cn/problems/subsets/>)
 
 ## 示例
 

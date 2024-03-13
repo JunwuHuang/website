@@ -6,11 +6,11 @@ sidebar_position: 12
 
 2022-08-08 ~ 2022-08-14
 
-## Algorithm 1
+## Algorithm1
 
 [合并 K 个升序链表](https://github.com/JunwuHuang/leetcode-daily/blob/master/merge-k-sorted-lists/%E5%90%88%E5%B9%B6K%E4%B8%AA%E5%8D%87%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
 
-## Algorithm 2
+## Algorithm2
 
 [字母异位词分组](https://github.com/JunwuHuang/leetcode-daily/blob/master/group-anagrams/%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.md)
 

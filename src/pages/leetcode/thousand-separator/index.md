@@ -2,7 +2,7 @@
 
 2022/12/20
 
-> <https://leetcode.cn/problems/thousand-separator/>
+> [https://leetcode.cn/problems/thousand-separator/](https://leetcode.cn/problems/thousand-separator/)
 
 ## 示例
 

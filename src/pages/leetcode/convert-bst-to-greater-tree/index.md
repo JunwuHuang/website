@@ -2,7 +2,7 @@
 
 2022/11/01
 
-> <https://leetcode.cn/problems/convert-bst-to-greater-tree/>
+> [https://leetcode.cn/problems/convert-bst-to-greater-tree/](https://leetcode.cn/problems/convert-bst-to-greater-tree/)
 
 ## 示例
 

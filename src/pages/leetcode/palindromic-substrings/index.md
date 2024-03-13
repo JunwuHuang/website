@@ -2,7 +2,7 @@
 
 2022/10/08
 
-> <https://leetcode.cn/problems/palindromic-substrings/>
+> [https://leetcode.cn/problems/palindromic-substrings/](https://leetcode.cn/problems/palindromic-substrings/)
 
 ## 示例
 

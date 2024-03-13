@@ -2,7 +2,7 @@
 
 2022/11/08
 
-> <https://leetcode.cn/problems/maximal-rectangle/>
+> [https://leetcode.cn/problems/maximal-rectangle/](https://leetcode.cn/problems/maximal-rectangle/)
 
 ## 示例
 

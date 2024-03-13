@@ -2,7 +2,7 @@
 
 2022/06/11
 
-> <https://leetcode.cn/problems/3sum/>
+> [https://leetcode.cn/problems/3sum/](https://leetcode.cn/problems/3sum/)
 
 ## 示例
 

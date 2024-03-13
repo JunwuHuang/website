@@ -2,7 +2,7 @@
 
 2023/01/01
 
-> <https://leetcode.cn/problems/course-schedule/>
+> [https://leetcode.cn/problems/course-schedule/](https://leetcode.cn/problems/course-schedule/)
 
 ## 示例
 

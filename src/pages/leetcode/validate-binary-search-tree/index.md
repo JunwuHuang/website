@@ -2,7 +2,7 @@
 
 2022/11/09
 
-> <https://leetcode.cn/problems/validate-binary-search-tree/>
+> [https://leetcode.cn/problems/validate-binary-search-tree/](https://leetcode.cn/problems/validate-binary-search-tree/)
 
 ## 示例
 

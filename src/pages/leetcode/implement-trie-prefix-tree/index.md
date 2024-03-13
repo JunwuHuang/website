@@ -2,7 +2,7 @@
 
 2022/12/11
 
-> <https://leetcode.cn/problems/implement-trie-prefix-tree/>
+> [https://leetcode.cn/problems/implement-trie-prefix-tree/](https://leetcode.cn/problems/implement-trie-prefix-tree/)
 
 ## 示例
 

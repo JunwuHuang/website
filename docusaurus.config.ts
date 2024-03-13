@@ -1,11 +1,11 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
+import { themes } from 'prism-react-renderer'
+import type {Config} from '@docusaurus/types';
+import type * as Preset from '@docusaurus/preset-classic'
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const lightTheme = themes.github;
+const darkTheme = themes.dracula;
 
-/** @type {import('@docusaurus/types').Config} */
-const config = {
+const config: Config = {
   title: "假鸟乖",
   tagline:
     "There is no point in me doing things that I can't be myself. --Better Call Saul",
@@ -32,8 +32,7 @@ const config = {
   presets: [
     [
       "classic",
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
         },
@@ -43,7 +42,7 @@ const config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
-      }),
+      } satisfies Preset.Options,
     ],
   ],
 
@@ -114,8 +113,9 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} 假鸟乖. Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: lightTheme,
+        darkTheme: darkTheme,
+        additionalLanguages: ['bash', 'diff', 'json'],
       },
     }),
   plugins: [
@@ -128,4 +128,4 @@ const config = {
   ],
 };
 
-module.exports = config;
+export default config

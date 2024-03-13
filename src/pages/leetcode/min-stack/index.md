@@ -2,7 +2,7 @@
 
 2022/09/24
 
-> <https://leetcode.cn/problems/min-stack/>
+> [https://leetcode.cn/problems/min-stack/](https://leetcode.cn/problems/min-stack/)
 
 ## 示例
 

@@ -6,17 +6,17 @@ sidebar_position: 26
 
 2022-11-21 ~ 2022-11-27
 
-## Algorithm 1
+## Algorithm1
 
 [二叉树中的最大路径和](/leetcode/binary-tree-maximum-path-sum/)
 
-## Algorithm 2
+## Algorithm2
 
 [环形链表 II](/leetcode/linked-list-cycle-ii/)
 
 ## Tips
 
-[每天 10 个前端小知识 <Day 5\>](https://juejin.cn/post/7129420025814843406)
+[每天 10 个前端小知识 Day5](https://juejin.cn/post/7129420025814843406)
 
 复习面试题
 

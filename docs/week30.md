@@ -6,17 +6,17 @@ sidebar_position: 30
 
 2022-12-19 ~ 2022-12-25
 
-## Algorithm 1
+## Algorithm1
 
 [乘积最大子数组](/leetcode/maximum-product-subarray/)
 
-## Algorithm 2
+## Algorithm2
 
 [最大正方形](/leetcode/maximal-square/)
 
 ## Tips
 
-[每天 10 个前端小知识 <Day 9\>](https://juejin.cn/post/7130918368558874631)
+[每天 10 个前端小知识 Day9](https://juejin.cn/post/7130918368558874631)
 
 复习面试题
 

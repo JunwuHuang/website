@@ -2,7 +2,7 @@
 
 2022/10/11
 
-> <https://leetcode.cn/problems/task-scheduler/>
+> [https://leetcode.cn/problems/task-scheduler/](https://leetcode.cn/problems/task-scheduler/)
 
 ## 示例
 

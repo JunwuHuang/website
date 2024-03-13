@@ -2,7 +2,7 @@
 
 2022/11/01
 
-> <https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/>
+> [https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/)
 
 ## 示例
 

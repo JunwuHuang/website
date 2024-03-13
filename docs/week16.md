@@ -6,11 +6,11 @@ sidebar_position: 16
 
 2022-09-12 ~ 2022-09-18
 
-## Algorithm 1
+## Algorithm1
 
 [单词搜索](https://github.com/JunwuHuang/leetcode-daily/blob/master/word-search/%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.md)
 
-## Algorithm 2
+## Algorithm2
 
 [柱状图中最大的矩形](https://github.com/JunwuHuang/leetcode-daily/blob/master/largest-rectangle-in-histogram/%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.md)
 

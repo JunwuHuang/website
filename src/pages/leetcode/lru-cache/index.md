@@ -2,7 +2,7 @@
 
 2022/12/04
 
-> <https://leetcode.cn/problems/lru-cache/>
+> [https://leetcode.cn/problems/lru-cache/](https://leetcode.cn/problems/lru-cache/)
 
 ## 示例
 

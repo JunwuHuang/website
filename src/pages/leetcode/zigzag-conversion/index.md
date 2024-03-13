@@ -2,7 +2,7 @@
 
 2022/06/02
 
-> <https://leetcode.cn/problems/zigzag-conversion/>
+> [https://leetcode.cn/problems/zigzag-conversion/](https://leetcode.cn/problems/zigzag-conversion/)
 
 ## 示例
 

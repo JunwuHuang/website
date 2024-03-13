@@ -1,4 +1,3 @@
-import React from "react";
 import Layout from "@theme/Layout";
 import { usePluginData } from "@docusaurus/useGlobalData";
 import Link from "@docusaurus/Link";

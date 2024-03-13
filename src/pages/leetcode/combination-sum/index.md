@@ -2,7 +2,7 @@
 
 2022/06/26
 
-> <https://leetcode.cn/problems/combination-sum/>
+> [https://leetcode.cn/problems/combination-sum/](https://leetcode.cn/problems/combination-sum/)
 
 ## 示例
 

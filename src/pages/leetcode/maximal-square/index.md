@@ -2,7 +2,7 @@
 
 2022/12/24
 
-> <https://leetcode.cn/problems/maximal-square/>
+> [https://leetcode.cn/problems/maximal-square/](https://leetcode.cn/problems/maximal-square/)
 
 ## 示例
 

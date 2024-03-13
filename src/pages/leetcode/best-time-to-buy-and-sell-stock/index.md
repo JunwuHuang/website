@@ -2,7 +2,7 @@
 
 2022/08/02
 
-> <https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/>
+> [https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)
 
 ## 示例
 

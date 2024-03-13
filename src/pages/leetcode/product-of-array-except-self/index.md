@@ -2,7 +2,7 @@
 
 2022/09/30
 
-> <https://leetcode.cn/problems/product-of-array-except-self/>
+> [https://leetcode.cn/problems/product-of-array-except-self/](https://leetcode.cn/problems/product-of-array-except-self/)
 
 ## 示例
 

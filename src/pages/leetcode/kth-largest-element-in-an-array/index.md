@@ -2,7 +2,7 @@
 
 2022/10/10
 
-> <https://leetcode.cn/problems/kth-largest-element-in-an-array/>
+> [https://leetcode.cn/problems/kth-largest-element-in-an-array/](https://leetcode.cn/problems/kth-largest-element-in-an-array/)
 
 ## 示例
 

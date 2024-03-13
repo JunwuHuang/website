@@ -6,11 +6,11 @@ sidebar_position: 22
 
 2022-10-24 ~ 2022-10-30
 
-## Algorithm 1
+## Algorithm1
 
 [根据身高重建队列](/leetcode/queue-reconstruction-by-height/)
 
-## Algorithm 2
+## Algorithm2
 
 [最佳买卖股票时机含冷冻期](/leetcode/best-time-to-buy-and-sell-stock-with-cooldown)
 
@@ -22,6 +22,6 @@ sidebar_position: 22
 
 ## Tips
 
-[每天10个前端小知识 <Day 1\>](https://juejin.cn/post/7126909383123927054)
+[每天10个前端小知识 Day1](https://juejin.cn/post/7126909383123927054)
 
 复习面试题

@@ -2,7 +2,7 @@
 
 2022/10/08
 
-> <https://leetcode.cn/problems/unique-binary-search-trees/>
+> [https://leetcode.cn/problems/unique-binary-search-trees/](https://leetcode.cn/problems/unique-binary-search-trees/)
 
 ## 示例
 

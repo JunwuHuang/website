@@ -2,7 +2,7 @@
 
 2022/12/04
 
-> <https://leetcode.cn/problems/sort-list/>
+> [https://leetcode.cn/problems/sort-list/](https://leetcode.cn/problems/sort-list/)
 
 ## 示例
 

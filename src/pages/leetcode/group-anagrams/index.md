@@ -2,7 +2,7 @@
 
 2022/08/12
 
-> <https://leetcode.cn/problems/group-anagrams/>
+> [https://leetcode.cn/problems/group-anagrams/](https://leetcode.cn/problems/group-anagrams/)
 
 ## 示例
 

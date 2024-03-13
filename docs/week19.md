@@ -6,11 +6,11 @@ sidebar_position: 19
 
 2022-10-03 ~ 2022-10-09
 
-## Algorithm 1
+## Algorithm1
 
 [不同的二叉搜索树](https://github.com/JunwuHuang/leetcode-daily/blob/master/unique-binary-search-trees/%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
 
-## Algorithm 2
+## Algorithm2
 
 [回文子串](https://github.com/JunwuHuang/leetcode-daily/blob/master/palindromic-substrings/%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)
 

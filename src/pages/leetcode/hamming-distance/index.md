@@ -2,7 +2,7 @@
 
 2022/10/18
 
-> <https://leetcode.cn/problems/hamming-distance/>
+> [https://leetcode.cn/problems/hamming-distance/](https://leetcode.cn/problems/hamming-distance/)
 
 ## 示例
 

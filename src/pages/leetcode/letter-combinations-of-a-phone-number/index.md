@@ -2,7 +2,7 @@
 
 2022/06/11
 
-> <https://leetcode.cn/problems/letter-combinations-of-a-phone-number/>
+> [https://leetcode.cn/problems/letter-combinations-of-a-phone-number/](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)
 
 ## 示例
 

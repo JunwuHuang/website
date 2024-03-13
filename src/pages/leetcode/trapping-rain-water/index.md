@@ -2,7 +2,7 @@
 
 2022/08/02
 
-> <https://leetcode.cn/problems/trapping-rain-water/>
+> [https://leetcode.cn/problems/trapping-rain-water/](https://leetcode.cn/problems/trapping-rain-water/)
 
 ## 示例
 

@@ -6,11 +6,11 @@ sidebar_position: 14
 
 2022-08-22 ~ 2022-08-28
 
-## Algorithm 1
+## Algorithm1
 
 [不同路径](https://github.com/JunwuHuang/leetcode-daily/blob/master/unique-paths/%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md)
 
-## Algorithm 2
+## Algorithm2
 
 [最小路径和](https://github.com/JunwuHuang/leetcode-daily/blob/master/minimum-path-sum/%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md)
 

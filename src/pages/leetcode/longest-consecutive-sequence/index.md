@@ -2,7 +2,7 @@
 
 2022/07/24
 
-> <https://leetcode.cn/problems/longest-consecutive-sequence/>
+> [https://leetcode.cn/problems/longest-consecutive-sequence/](https://leetcode.cn/problems/longest-consecutive-sequence/)
 
 ## 示例
 

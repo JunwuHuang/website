@@ -2,7 +2,7 @@
 
 2022/10/31
 
-> <https://leetcode.cn/problems/maximum-depth-of-binary-tree/>
+> [https://leetcode.cn/problems/maximum-depth-of-binary-tree/](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
 
 ## 示例
 

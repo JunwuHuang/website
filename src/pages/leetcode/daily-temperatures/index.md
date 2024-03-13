@@ -2,7 +2,7 @@
 
 2022/10/18
 
-> <https://leetcode.cn/problems/daily-temperatures/>
+> [https://leetcode.cn/problems/daily-temperatures/](https://leetcode.cn/problems/daily-temperatures/)
 
 ## 示例
 

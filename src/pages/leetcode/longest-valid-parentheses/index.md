@@ -2,7 +2,7 @@
 
 2022/07/31
 
-> <https://leetcode.cn/problems/longest-valid-parentheses/>
+> [https://leetcode.cn/problems/longest-valid-parentheses/](https://leetcode.cn/problems/longest-valid-parentheses/)
 
 ## 示例
 

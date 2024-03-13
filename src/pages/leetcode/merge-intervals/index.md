@@ -2,7 +2,7 @@
 
 2022/08/15
 
-> <https://leetcode.cn/problems/merge-intervals/>
+> [https://leetcode.cn/problems/merge-intervals/](https://leetcode.cn/problems/merge-intervals/)
 
 ## 示例
 

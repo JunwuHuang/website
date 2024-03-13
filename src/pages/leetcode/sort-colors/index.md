@@ -2,7 +2,7 @@
 
 2022/07/24
 
-> <https://leetcode.cn/problems/sort-colors/>
+> [https://leetcode.cn/problems/sort-colors/](https://leetcode.cn/problems/sort-colors/)
 
 ## 示例
 

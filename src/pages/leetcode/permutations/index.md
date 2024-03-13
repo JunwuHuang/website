@@ -2,7 +2,7 @@
 
 2022/07/03
 
-> <https://leetcode.cn/problems/permutations/>
+> [https://leetcode.cn/problems/permutations/](https://leetcode.cn/problems/permutations/)
 
 ## 示例
 

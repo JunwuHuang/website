@@ -6,17 +6,17 @@ sidebar_position: 31
 
 2022-12-26 ~ 2023-1-1
 
-## Algorithm 1
+## Algorithm1
 
 [课程表](/leetcode/course-schedule/)
 
-## Algorithm 2
+## Algorithm2
 
 [二叉树的最近公共祖先](/leetcode/lowest-common-ancestor-of-a-binary-tree/)
 
 ## Tips
 
-[每天 10 个前端小知识 <Day 10\>](https://juejin.cn/post/7132040735196446728)
+[每天 10 个前端小知识 Day10](https://juejin.cn/post/7132040735196446728)
 
 复习面试题
 

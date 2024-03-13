@@ -2,7 +2,7 @@
 
 2022/10/24
 
-> <https://leetcode.cn/problems/merge-two-binary-trees/>
+> [https://leetcode.cn/problems/merge-two-binary-trees/](https://leetcode.cn/problems/merge-two-binary-trees/)
 
 ## 示例
 

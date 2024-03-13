@@ -2,7 +2,7 @@
 
 2022/11/17
 
-> <https://leetcode.cn/problems/symmetric-tree/>
+> [https://leetcode.cn/problems/symmetric-tree/](https://leetcode.cn/problems/symmetric-tree/)
 
 ## 示例
 

@@ -2,7 +2,7 @@
 
 2023/01/01
 
-> <https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/>
+> [https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 ## 示例
 

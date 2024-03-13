@@ -6,23 +6,23 @@ sidebar_position: 3
 
 2022-06-06 ~ 2022-06-12
 
-## Algorithm 1
+## Algorithm1
 
 [三数之和](https://github.com/JunwuHuang/leetcode-daily/blob/master/3sum/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 
-## Algorithm 2
+## Algorithm2
 
 [电话号码的字母组合](https://github.com/JunwuHuang/leetcode-daily/blob/master/letter-combinations-of-a-phone-number/%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.md)
 
 ## Tip
 
 最近 react18 新增了一个 hook: useId
-<https://reactjs.org/docs/hooks-reference.html#useid>
+[https://reactjs.org/docs/hooks-reference.html#useid](https://reactjs.org/docs/hooks-reference.html#useid)
 
 看文档介绍，该 hook 不是用于生成列表的 key 的，而是用于生成跨服务端与客户端稳定的 id，目的是避免 ssr 的 hydrate 时 mismatch
 
 这边文章介绍了如何产生以上的问题，以及以往是怎么处理的
-<https://zhuanlan.zhihu.com/p/437913203>
+[https://zhuanlan.zhihu.com/p/437913203](https://zhuanlan.zhihu.com/p/437913203)
 
 ## Review
 

@@ -2,7 +2,7 @@
 
 2022/10/08
 
-> <https://leetcode.cn/problems/binary-tree-inorder-traversal/>
+> [https://leetcode.cn/problems/binary-tree-inorder-traversal/](https://leetcode.cn/problems/binary-tree-inorder-traversal/)
 
 ## 示例
 

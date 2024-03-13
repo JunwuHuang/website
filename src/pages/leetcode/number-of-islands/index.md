@@ -2,7 +2,7 @@
 
 2022/12/12
 
-> <https://leetcode.cn/problems/number-of-islands/>
+> [https://leetcode.cn/problems/number-of-islands/](https://leetcode.cn/problems/number-of-islands/)
 
 ## 示例
 

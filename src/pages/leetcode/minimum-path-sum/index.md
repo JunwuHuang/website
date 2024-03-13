@@ -2,7 +2,7 @@
 
 2022/08/24
 
-> <https://leetcode.cn/problems/minimum-path-sum/>
+> [https://leetcode.cn/problems/minimum-path-sum/](https://leetcode.cn/problems/minimum-path-sum/)
 
 ## 示例
 

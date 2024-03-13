@@ -2,7 +2,7 @@
 
 2022/12/24
 
-> <https://leetcode.cn/problems/maximum-product-subarray/>
+> [https://leetcode.cn/problems/maximum-product-subarray/](https://leetcode.cn/problems/maximum-product-subarray/)
 
 ## 示例
 

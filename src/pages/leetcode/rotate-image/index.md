@@ -2,7 +2,7 @@
 
 2022/07/17
 
-> <https://leetcode.cn/problems/rotate-image/>
+> [https://leetcode.cn/problems/rotate-image/](https://leetcode.cn/problems/rotate-image/)
 
 ## 示例
 

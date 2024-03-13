@@ -26,10 +26,10 @@ function hasOwn(target, key) {
 }
 ```
 
-## Algorithm 1
+## Algorithm1
 
 [子集](https://github.com/JunwuHuang/leetcode-daily/blob/master/subsets/%E5%AD%90%E9%9B%86.md)
 
-## Algorithm 2
+## Algorithm2
 
 [全排列](https://github.com/JunwuHuang/leetcode-daily/blob/master/permutations/%E5%85%A8%E6%8E%92%E5%88%97.md)

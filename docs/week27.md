@@ -6,17 +6,17 @@ sidebar_position: 27
 
 2022-11-28 ~ 2022-12-04
 
-## Algorithm 1
+## Algorithm1
 
 [LRU 缓存](/leetcode/lru-cache/)
 
-## Algorithm 2
+## Algorithm2
 
 [排序链表](/leetcode/sort-list/)
 
 ## Tips
 
-[每天 10 个前端小知识 <Day 6\>](https://juejin.cn/post/7129782761312747551)
+[每天 10 个前端小知识 Day6](https://juejin.cn/post/7129782761312747551)
 
 复习面试题
 

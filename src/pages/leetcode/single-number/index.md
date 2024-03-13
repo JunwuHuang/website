@@ -2,7 +2,7 @@
 
 2022/08/10
 
-> <https://leetcode.cn/problems/single-number/>
+> [https://leetcode.cn/problems/single-number/](https://leetcode.cn/problems/single-number/)
 
 ## 示例
 

@@ -6,11 +6,11 @@ sidebar_position: 11
 
 2022-08-01 ~ 2022-08-07
 
-## Algorithm 1
+## Algorithm1
 
 [接雨水](https://github.com/JunwuHuang/leetcode-daily/blob/master/trapping-rain-water/%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)
 
-## Algorithm 2
+## Algorithm2
 
 [最大子数组和](https://github.com/JunwuHuang/leetcode-daily/blob/master/maximum-subarray/%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.md)
 

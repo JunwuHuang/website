@@ -12,11 +12,11 @@ sidebar_position: 5
 
 本文讲述了 AbortController 的使用场景，除了在 fetch 的时候可以使用，在注册监听事件的时候也可以使用；作者还介绍了如何去封装一些工具以投入生产，例如在 react 的 useEffect 下使用，以便在消除副作用的环节中去执行 abort
 
-## Algorithm 1
+## Algorithm1
 
 [下一个排列](https://github.com/JunwuHuang/leetcode-daily/blob/master/next-permutation/%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.md)
 
-## Algorithm 2
+## Algorithm2
 
 [组合总和](https://github.com/JunwuHuang/leetcode-daily/blob/master/combination-sum/%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md)
 

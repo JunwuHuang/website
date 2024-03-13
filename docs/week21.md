@@ -6,11 +6,11 @@ sidebar_position: 21
 
 2022-10-17 ~ 2022-10-23
 
-## Algorithm 1
+## Algorithm1
 
 [每日温度](https://github.com/JunwuHuang/leetcode-daily/blob/master/daily-temperatures/%E6%AF%8F%E6%97%A5%E6%B8%A9%E5%BA%A6.md)
 
-## Algorithm 2
+## Algorithm2
 
 [寻找重复数](https://github.com/JunwuHuang/leetcode-daily/blob/master/find-the-duplicate-number/%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0.md)
 

@@ -2,7 +2,7 @@
 
 2022/10/28
 
-> <https://leetcode.cn/problems/queue-reconstruction-by-height/>
+> [https://leetcode.cn/problems/queue-reconstruction-by-height/](https://leetcode.cn/problems/queue-reconstruction-by-height/)
 
 ## 示例
 
@@ -32,7 +32,7 @@
 
 ### 贪心
 
-<https://leetcode.cn/problems/queue-reconstruction-by-height/solution/406du-shuo-shi-tan-xin-na-yao-wei-shi-yao-yong-tan/>
+[https://leetcode.cn/problems/queue-reconstruction-by-height/solution/406du-shuo-shi-tan-xin-na-yao-wei-shi-yao-yong-tan/](https://leetcode.cn/problems/queue-reconstruction-by-height/solution/406du-shuo-shi-tan-xin-na-yao-wei-shi-yao-yong-tan/)
 
 ```javascript
 var reconstructQueue = function(people) {

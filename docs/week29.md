@@ -6,17 +6,17 @@ sidebar_position: 29
 
 2022-12-12 ~ 2022-12-18
 
-## Algorithm 1
+## Algorithm1
 
 [岛屿数量](/leetcode/number-of-islands/)
 
-## Algorithm 2
+## Algorithm2
 
 [岛屿的最大面积](/leetcode/max-area-of-island/)
 
 ## Tips
 
-[每天 10 个前端小知识 <Day 8\>](https://juejin.cn/post/7130554513575903268)
+[每天 10 个前端小知识 Day8](https://juejin.cn/post/7130554513575903268)
 
 复习面试题
 

@@ -6,11 +6,11 @@ sidebar_position: 9
 
 2022-07-18 ~ 2022-07-24
 
-## Algorithm 1
+## Algorithm1
 
 [颜色分类](https://github.com/JunwuHuang/leetcode-daily/blob/master/sort-colors/%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md)
 
-## Algorithm 2
+## Algorithm2
 
 [最长连续序列](https://github.com/JunwuHuang/leetcode-daily/blob/master/longest-consecutive-sequence/%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.md)
 

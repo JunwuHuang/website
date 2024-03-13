@@ -2,7 +2,7 @@
 
 2022/08/10
 
-> <https://leetcode.cn/problems/climbing-stairs/>
+> [https://leetcode.cn/problems/climbing-stairs/](https://leetcode.cn/problems/climbing-stairs/)
 
 ## 示例
 

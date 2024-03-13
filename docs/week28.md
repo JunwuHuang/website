@@ -6,17 +6,17 @@ sidebar_position: 28
 
 2022-12-05 ~ 2022-12-11
 
-## Algorithm 1
+## Algorithm1
 
 [实现 Trie (前缀树)](/leetcode/implement-trie-prefix-tree/)
 
-## Algorithm 2
+## Algorithm2
 
 [完全平方数](/leetcode/perfect-squares/)
 
 ## Tips
 
-[每天 10 个前端小知识 <Day 7\>](https://juejin.cn/post/7130161240181047309)
+[每天 10 个前端小知识 Day7](https://juejin.cn/post/7130161240181047309)
 
 复习面试题
 

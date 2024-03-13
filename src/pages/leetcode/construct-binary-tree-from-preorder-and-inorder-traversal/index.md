@@ -2,7 +2,7 @@
 
 2022/11/18
 
-> <https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/>
+> [https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 
 ## 示例
 

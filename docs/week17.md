@@ -6,11 +6,11 @@ sidebar_position: 17
 
 2022-09-19 ~ 2022-09-25
 
-## Algorithm 1
+## Algorithm1
 
 [单词拆分](https://github.com/JunwuHuang/leetcode-daily/blob/af79db10aa53b00c0052f2531ea399dccd26369b/word-break/%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.md)
 
-## Algorithm 2
+## Algorithm2
 
 [最小栈](https://github.com/JunwuHuang/leetcode-daily/blob/2074c8e8470505890621f66a3e4f4f6220f8ef17/min-stack/%E6%9C%80%E5%B0%8F%E6%A0%88.md)
 

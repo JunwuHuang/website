@@ -2,7 +2,7 @@
 
 2022/06/18
 
-> <https://leetcode.cn/problems/generate-parentheses/>
+> [https://leetcode.cn/problems/generate-parentheses/](https://leetcode.cn/problems/generate-parentheses/)
 
 ## 示例
 

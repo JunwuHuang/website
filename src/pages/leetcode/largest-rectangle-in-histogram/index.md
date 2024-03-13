@@ -2,7 +2,7 @@
 
 2022/09/18
 
-> <https://leetcode.cn/problems/largest-rectangle-in-histogram/>
+> [https://leetcode.cn/problems/largest-rectangle-in-histogram/](https://leetcode.cn/problems/largest-rectangle-in-histogram/)
 
 ## 示例
 
@@ -23,7 +23,7 @@
 
 ## 题解
 
-<https://leetcode.cn/problems/largest-rectangle-in-histogram/solution/jsjie-ti-si-lu-qing-xi-ming-liao-by-inte-e4lj/>
+[https://leetcode.cn/problems/largest-rectangle-in-histogram/solution/jsjie-ti-si-lu-qing-xi-ming-liao-by-inte-e4lj/](https://leetcode.cn/problems/largest-rectangle-in-histogram/solution/jsjie-ti-si-lu-qing-xi-ming-liao-by-inte-e4lj/)
 
 ### 栈顶法
 

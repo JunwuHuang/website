@@ -6,11 +6,11 @@ sidebar_position: 15
 
 2022-09-05 ~ 2022-09-11
 
-## Algorithm 1
+## Algorithm1
 
 [编辑距离](https://github.com/JunwuHuang/leetcode-daily/blob/master/edit-distance/%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.md)
 
-## Algorithm 2
+## Algorithm2
 
 [最小覆盖子串](https://github.com/JunwuHuang/leetcode-daily/blob/master/minimum-window-substring/%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.md)
 

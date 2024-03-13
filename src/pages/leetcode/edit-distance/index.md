@@ -2,7 +2,7 @@
 
 2022/09/11
 
-> <https://leetcode.cn/problems/edit-distance/>
+> [https://leetcode.cn/problems/edit-distance/](https://leetcode.cn/problems/edit-distance/)
 
 ## 示例
 

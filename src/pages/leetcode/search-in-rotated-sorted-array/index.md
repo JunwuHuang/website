@@ -2,7 +2,7 @@
 
 2022/07/17
 
-> <https://leetcode.cn/problems/search-in-rotated-sorted-array/>
+> [https://leetcode.cn/problems/search-in-rotated-sorted-array/](https://leetcode.cn/problems/search-in-rotated-sorted-array/)
 
 ## 示例
 

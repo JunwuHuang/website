@@ -2,7 +2,7 @@
 
 2022/07/10
 
-> <https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/>
+> [https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
 ## 示例
 

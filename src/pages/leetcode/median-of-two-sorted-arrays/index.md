@@ -2,7 +2,7 @@
 
 2022/07/04
 
-> <https://leetcode.cn/problems/median-of-two-sorted-arrays/>
+> [https://leetcode.cn/problems/median-of-two-sorted-arrays/](https://leetcode.cn/problems/median-of-two-sorted-arrays/)
 
 ## 示例
 

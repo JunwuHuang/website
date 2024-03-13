@@ -2,7 +2,7 @@
 
 2022/08/22
 
-> <https://leetcode.cn/problems/palindrome-number/>
+> [https://leetcode.cn/problems/palindrome-number/](https://leetcode.cn/problems/palindrome-number/)
 
 ## 示例
 

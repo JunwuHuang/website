@@ -2,7 +2,7 @@
 
 2022/09/18
 
-> <https://leetcode.cn/problems/word-search/>
+> [https://leetcode.cn/problems/word-search/](https://leetcode.cn/problems/word-search/)
 
 ## 示例
 

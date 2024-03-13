@@ -2,7 +2,7 @@
 
 2022/06/19
 
-> <https://leetcode.cn/problems/remove-nth-node-from-end-of-list/>
+> [https://leetcode.cn/problems/remove-nth-node-from-end-of-list/](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)
 
 ## 示例
 

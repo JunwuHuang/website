@@ -2,7 +2,7 @@
 
 2022/05/29
 
-> <https://leetcode.cn/problems/longest-palindromic-substring/>
+> [https://leetcode.cn/problems/longest-palindromic-substring/](https://leetcode.cn/problems/longest-palindromic-substring/)
 
 ## 示例
 

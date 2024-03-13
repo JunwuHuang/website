@@ -6,11 +6,11 @@ sidebar_position: 13
 
 2022-08-15 ~ 2022-08-21
 
-## Algorithm 1
+## Algorithm1
 
 [合并区间](https://github.com/JunwuHuang/leetcode-daily/blob/master/merge-intervals/%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.md)
 
-## Algorithm 2
+## Algorithm2
 
 [跳跃游戏](https://github.com/JunwuHuang/leetcode-daily/blob/master/jump-game/%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md)
 

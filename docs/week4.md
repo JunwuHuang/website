@@ -20,11 +20,11 @@ sidebar_position: 4
 
 - 在源码中，该库将选项参数 options 当作类似于 context 的思路向下传递，可以避免参数签名过长带来的阅读难度，易于维护。
 
-## Algorithm 1
+## Algorithm1
 
 [括号生成](https://github.com/JunwuHuang/leetcode-daily/blob/master/generate-parentheses/%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md)
 
-## Algorithm 2
+## Algorithm2
 
 [删除链表的倒数第 N 个结点](https://github.com/JunwuHuang/leetcode-daily/blob/master/remove-nth-node-from-end-of-list/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.md)
 

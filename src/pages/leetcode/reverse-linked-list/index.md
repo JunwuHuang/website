@@ -2,7 +2,7 @@
 
 2022/11/01
 
-> <https://leetcode.cn/problems/reverse-linked-list/>
+> [https://leetcode.cn/problems/reverse-linked-list/](https://leetcode.cn/problems/reverse-linked-list/)
 
 ## 示例
 

@@ -6,11 +6,11 @@ sidebar_position: 18
 
 2022-09-26 ~ 2022-10-02
 
-## Algorithm 1
+## Algorithm1
 
 [打家劫舍](https://github.com/JunwuHuang/leetcode-daily/blob/master/house-robber/%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md)
 
-## Algorithm 2
+## Algorithm2
 
 [除自身以外数组的乘积](https://github.com/JunwuHuang/leetcode-daily/blob/master/product-of-array-except-self/%E9%99%A4%E8%87%AA%E8%BA%AB%E4%BB%A5%E5%A4%96%E6%95%B0%E7%BB%84%E7%9A%84%E4%B9%98%E7%A7%AF.md)
 

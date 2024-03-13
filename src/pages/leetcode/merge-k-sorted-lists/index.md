@@ -2,7 +2,7 @@
 
 2022/08/12
 
-> <https://leetcode.cn/problems/merge-k-sorted-lists/>
+> [https://leetcode.cn/problems/merge-k-sorted-lists/](https://leetcode.cn/problems/merge-k-sorted-lists/)
 
 ## 示例
 

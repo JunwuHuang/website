@@ -2,7 +2,7 @@
 
 2022/06/26
 
-> <https://leetcode.cn/problems/next-permutation/>
+> [https://leetcode.cn/problems/next-permutation/](https://leetcode.cn/problems/next-permutation/)
 
 ## 示例
 

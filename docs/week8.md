@@ -6,11 +6,11 @@ sidebar_position: 8
 
 2022-07-11 ~ 2022-07-17
 
-## Algorithm 1
+## Algorithm1
 
 [搜索旋转排序数组](https://github.com/JunwuHuang/leetcode-daily/blob/master/search-in-rotated-sorted-array/%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 
-## Algorithm 2
+## Algorithm2
 
 [旋转图像](https://github.com/JunwuHuang/leetcode-daily/blob/master/rotate-image/%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.md)
 

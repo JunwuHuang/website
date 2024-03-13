@@ -2,7 +2,7 @@
 
 2022/10/18
 
-> <https://leetcode.cn/problems/find-the-duplicate-number/>
+> [https://leetcode.cn/problems/find-the-duplicate-number/](https://leetcode.cn/problems/find-the-duplicate-number/)
 
 ## 示例
 

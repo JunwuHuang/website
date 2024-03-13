@@ -2,7 +2,7 @@
 
 2022/10/21
 
-> <https://leetcode.cn/problems/invert-binary-tree/>
+> [https://leetcode.cn/problems/invert-binary-tree/](https://leetcode.cn/problems/invert-binary-tree/)
 
 ## 示例
 
