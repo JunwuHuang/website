@@ -34,13 +34,13 @@ const config: Config = {
       "classic",
       {
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: "./sidebars.js",
         },
         blog: {
           showReadingTime: true,
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
+          customCss: "./src/css/custom.css",
         },
       } satisfies Preset.Options,
     ],
@@ -64,6 +64,7 @@ const config: Config = {
           },
           { to: "blog", label: "博客", position: "left" },
           { to: "/leetcode", label: "算法记录", position: "left" },
+          { to: "interview", label: "面试题", position: "left" },
           {
             href: "https://github.com/JunwuHuang/website",
             label: "GitHub",
@@ -84,6 +85,10 @@ const config: Config = {
               {
                 label: "算法记录",
                 to: "/leetcode/",
+              },
+              {
+                label: "面试题",
+                to: "/interview",
               },
             ],
           },
@@ -123,6 +128,15 @@ const config: Config = {
       "./plugins/generate-tree",
       {
         paths: ["./src/pages/leetcode"],
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'interview',
+        path: 'interview',
+        routeBasePath: 'interview',
+        sidebarPath: "./sidebars.js",
       },
     ],
   ],
