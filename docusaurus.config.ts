@@ -110,7 +110,7 @@ const config: Config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} 假鸟乖. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 假鸟乖. Built with <a href='https://docusaurus.io/zh-CN/' target='_blank'>Docusaurus.</a>`,
       },
       prism: {
         theme: lightTheme,

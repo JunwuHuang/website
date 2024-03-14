@@ -1,139 +1,81 @@
 # 继承
 
-## 使用 extends 关键字
-
-利用 extends 关键字结合 class 语法可以很方便的实现 js 对象的继承，在讨论 extends 的 polyfill 之前可以先看一下 class 的 polyfill
-
-> 利用 babel 的 playground，将 targets 设置为 chrome45(尚未支持 class 语法的版本)
-
-### class 的 polyfill
-
 ```javascript
-class Person {
-  constructor(name, age) {
-    this.name = name;
-    this.age = age;
-  }
+// 定义父类 
+function SuperType(name, age) {
+  this.name = name
+  this.age = age
+}
+SuperType.prototype.getName = function() {
+  return this.name
 }
 ```
 
-编译后（精简版）
+## 组合式继承
+
+- 常用的继承方式，`instanceof`与`isPrototypeOf()`能够识别基于此种方式继承创建的对象。
+- 但是其中调用了2次父类的构造函数，若父类的构造函数较为复杂，则会造成更多的资源浪费
 
 ```javascript
-"use strict";
-
-function _createClass(Constructor, protoProps, staticProps) {
-  Object.defineProperty(Constructor, "prototype", { writable: false });
-  return Constructor;
+function SubType() {
+  // 继承属性
+  SuperType.apply(this, arguments)
 }
-function _classCallCheck(instance, Constructor) {
-  if (!(instance instanceof Constructor)) {
-    throw new TypeError("Cannot call a class as a function");
-  }
-}
-var Person = /*#__PURE__*/ _createClass(function Person(name, age) {
-  _classCallCheck(this, Person);
-  this.name = name;
-  this.age = age;
-});
+// 继承方法
+SubType.prototype = new SuperType()
+SubType.prototype.constructor = SubType
 ```
 
-### extends 的 polyfill
+## 原型式继承
 
 ```javascript
-class Person {
-  constructor(name, age) {
-    this.name = name;
-    this.age = age;
-  }
+function object(o) {
+  function F() {}
+  F.prototype = o
+  return new F()
 }
-
-class Jack extends Person {}
+// 以上方式相当于
 ```
 
-编译后（精简版）
+以上方式相当于`Object.create(o)`，所以引用类型的属性还是会共享相应的值，举个例子
 
 ```javascript
-function _setPrototypeOf(o, p) {
-  _setPrototypeOf = Object.setPrototypeOf
-    ? Object.setPrototypeOf.bind()
-    : function _setPrototypeOf(o, p) {
-        o.__proto__ = p;
-        return o;
-      };
-  return _setPrototypeOf(o, p);
+var person = {
+  friends: ['Bob']
 }
-
-function _inherits(subClass, superClass) {
-  if (typeof superClass !== "function" && superClass !== null) {
-    throw new TypeError("Super expression must either be null or a function");
-  }
-  subClass.prototype = Object.create(superClass && superClass.prototype, {
-    constructor: { value: subClass, writable: true, configurable: true },
-  });
-  Object.defineProperty(subClass, "prototype", { writable: false });
-  if (superClass) _setPrototypeOf(subClass, superClass);
-}
-
-function _isNativeReflectConstruct() {
-  if (typeof Reflect === "undefined" || !Reflect.construct) return false;
-  if (Reflect.construct.sham) return false;
-  if (typeof Proxy === "function") return true;
-  try {
-    Boolean.prototype.valueOf.call(
-      Reflect.construct(Boolean, [], function () {})
-    );
-    return true;
-  } catch (e) {
-    return false;
-  }
-}
-
-function _getPrototypeOf(o) {
-  _getPrototypeOf = Object.setPrototypeOf
-    ? Object.getPrototypeOf.bind()
-    : function _getPrototypeOf(o) {
-        return o.__proto__ || Object.getPrototypeOf(o);
-      };
-  return _getPrototypeOf(o);
-}
-
-function _possibleConstructorReturn(self, call) {
-  if (call && (typeof call === "object" || typeof call === "function")) {
-    return call;
-  } else if (call !== void 0) {
-    throw new TypeError(
-      "Derived constructors may only return object or undefined"
-    );
-  }
-  return _assertThisInitialized(self);
-}
-
-function _createSuper(Derived) {
-  var hasNativeReflectConstruct = _isNativeReflectConstruct();
-  return function _createSuperInternal() {
-    var Super = _getPrototypeOf(Derived),
-      result;
-    if (hasNativeReflectConstruct) {
-      var NewTarget = _getPrototypeOf(this).constructor;
-      result = Reflect.construct(Super, arguments, NewTarget);
-    } else {
-      result = Super.apply(this, arguments);
-    }
-    return _possibleConstructorReturn(this, result);
-  };
-}
-
-var Jack = /*#__PURE__*/ (function (_Person) {
-  _inherits(Jack, _Person);
-  var _super = _createSuper(Jack);
-  function Jack() {
-    _classCallCheck(this, Jack);
-    return _super.apply(this, arguments);
-  }
-  return _createClass(Jack);
-})(Person);
+var person2 = Object.create(person)
+person2.friends.push('Jack')
+var person3 = Object.create(person)
+person3.friends.push('Rose')
+console.log(person.friends)
+// Bob, Jack, Rose
 ```
 
-### 总结
+MDN上提供了基于`Object.create`实现继承的写法
 
+```javascript
+function SubType() {
+  SuperType.apply(this, arguments)
+}
+SubType.prototype = Object.create(SuperType.prototype, {
+  constructor: {
+    value: SubType,
+  }
+})
+```
+
+## 寄生组合式继承
+
+最理想的继承范式，`babel`对于`extends`关键字的转译也是用的这个
+
+```javascript
+function inheritPrototype(subType, superType) {
+  var prototype = object(superType.prototype)
+  prototype.constructor = subType
+  subType.prototype = prototype
+}
+function SubType(name, age) {
+  SuperType.call(this, name, age)
+}
+inheritPrototype(SubType, SuperType)
+```
