@@ -79,3 +79,93 @@ function SubType(name, age) {
 }
 inheritPrototype(SubType, SuperType)
 ```
+
+## babel对class关键字的转译
+
+class写法
+
+```javascript
+class Person {
+  constructor(name, age) {
+    this.name = name;
+    this.age = age;
+  }
+}
+```
+
+编译后(调整以提升易读性)
+
+```javascript
+function Person(name, age) {
+  if (!(this instanceof Person)) {
+    throw new TypeError("Cannot call a class as a function");
+  }
+  this.name = name
+  this.age = age
+}
+
+Object.defineProperty(Person, 'prototype', {
+  writable: false
+})
+```
+
+## babel对extends关键字的转译
+
+extends写法
+
+```javascript
+class Jack extends Person {}
+```
+
+编译后（精简版）
+
+```javascript
+function _inherits(subClass, superClass) {
+  if (typeof superClass !== "function" && superClass !== null) {
+    throw new TypeError("Super expression must either be null or a function");
+  }
+  subClass.prototype = Object.create(superClass && superClass.prototype, {
+    constructor: { value: subClass, writable: true, configurable: true },
+  });
+  Object.defineProperty(subClass, "prototype", { writable: false });
+  if (superClass) {
+    Object.setPrototypeOf(subClass, superClass);
+  }
+}
+
+function _possibleConstructorReturn(self, call) {
+  if (call && (typeof call === "object" || typeof call === "function")) {
+    return call;
+  } else if (call !== void 0) {
+    throw new TypeError(
+      "Derived constructors may only return object or undefined"
+    );
+  }
+  if (self === void 0) {
+    throw new ReferenceError(
+      "this hasn't been initialised - super() hasn't been called"
+    );
+  }
+  return self;
+}
+
+function _createSuper(Derived) {
+  return function _createSuperInternal() {
+    var Super = Object.getPrototypeOf(Derived),
+      result = Super.apply(this, arguments);
+    return _possibleConstructorReturn(this, result);
+  };
+}
+
+var Jack = /*#__PURE__*/ (function (_Person) {
+  _inherits(Jack, _Person);
+  var _super = _createSuper(Jack);
+  function Jack() {
+    if (!(this instanceof Jack)) {
+      throw new TypeError("Cannot call a class as a function");
+    }
+    return _super.apply(this, arguments);
+  }
+  return _createClass(Jack);
+})(Person);
+```
