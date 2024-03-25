@@ -169,3 +169,10 @@ var Jack = /*#__PURE__*/ (function (_Person) {
   return _createClass(Jack);
 })(Person);
 ```
+
+
+## 参考文献
+
+- [《JavaScript高级程序设计》](https://www.ituring.com.cn/book/2472)
+- [用 Object.create() 实现类式继承](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/create#%E7%94%A8_object.create_%E5%AE%9E%E7%8E%B0%E7%B1%BB%E5%BC%8F%E7%BB%A7%E6%89%BF)
+- [babel的repl](https://babeljs.io/repl)
