@@ -58,6 +58,7 @@ const config: Config = {
         items: [
           { to: "javascript", label: "javascript", position: "left" },
           { to: "interview", label: "面试题", position: "left" },
+          { to: "algorithm", label: "算法基础", position: "left" },
           { to: "blog", label: "博客", position: "left" },
           { to: "/leetcode", label: "算法记录", position: "right" },
           {
@@ -80,10 +81,6 @@ const config: Config = {
               {
                 label: "算法记录",
                 to: "/leetcode/",
-              },
-              {
-                label: "面试题",
-                to: "/interview",
               },
             ],
           },
@@ -140,6 +137,15 @@ const config: Config = {
         id: 'js',
         path: 'js',
         routeBasePath: 'javascript',
+        sidebarPath: "./sidebars.js",
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'algorithm',
+        path: 'algorithm',
+        routeBasePath: 'algorithm',
         sidebarPath: "./sidebars.js",
       },
     ],
