@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7472],{7894:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Switch\u6a21\u62df\u5668","permalink":"/website/blog/switch-emu","unlisted":false},{"title":"Windows\u4e0eOffice\u7684\u5b89\u88c5","permalink":"/website/blog/windows&office","unlisted":false}]}')}}]);
