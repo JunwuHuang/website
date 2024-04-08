@@ -1,6 +1,9 @@
 ---
-title: 作用域
+slug: /
+sidebar_position: 1
 ---
+
+# 作用域
 
 ```javascript
 var a = 2

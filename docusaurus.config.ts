@@ -56,15 +56,10 @@ const config: Config = {
           src: "img/logo.svg",
         },
         items: [
-          {
-            type: "doc",
-            docId: "index",
-            position: "left",
-            label: "每周积累",
-          },
-          { to: "blog", label: "博客", position: "left" },
-          { to: "/leetcode", label: "算法记录", position: "left" },
+          { to: "javascript", label: "javascript", position: "left" },
           { to: "interview", label: "面试题", position: "left" },
+          { to: "blog", label: "博客", position: "left" },
+          { to: "/leetcode", label: "算法记录", position: "right" },
           {
             href: "https://github.com/JunwuHuang/website",
             label: "GitHub",
@@ -136,6 +131,15 @@ const config: Config = {
         id: 'interview',
         path: 'interview',
         routeBasePath: 'interview',
+        sidebarPath: "./sidebars.js",
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'js',
+        path: 'js',
+        routeBasePath: 'javascript',
         sidebarPath: "./sidebars.js",
       },
     ],

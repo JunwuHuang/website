@@ -1,3 +1,8 @@
+---
+slug: /
+sidebar_position: 1
+---
+
 # 原型
 
 ## 原型对象
